@@ -1,5 +1,5 @@
-Magical Compressed sensing
-==========================
+Sparstermind, magical compressed sensing trick
+==============================================
 
 A small example game to demonstrate the power of compressed sensing, written in python.
 
